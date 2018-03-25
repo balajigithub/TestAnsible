@@ -1,0 +1,22 @@
+C:\Users\mbala\source\repos\CancerCouncilPalindrome\WebAppCore\bin\Debug\netcoreapp2.0\1 WebAppFrontEnd.deps.json
+C:\Users\mbala\source\repos\CancerCouncilPalindrome\WebAppCore\bin\Debug\netcoreapp2.0\1 WebAppFrontEnd.runtimeconfig.json
+C:\Users\mbala\source\repos\CancerCouncilPalindrome\WebAppCore\bin\Debug\netcoreapp2.0\1 WebAppFrontEnd.runtimeconfig.dev.json
+C:\Users\mbala\source\repos\CancerCouncilPalindrome\WebAppCore\bin\Debug\netcoreapp2.0\1 WebAppFrontEnd.dll
+C:\Users\mbala\source\repos\CancerCouncilPalindrome\WebAppCore\bin\Debug\netcoreapp2.0\1 WebAppFrontEnd.pdb
+C:\Users\mbala\source\repos\CancerCouncilPalindrome\WebAppCore\obj\Debug\netcoreapp2.0\1 WebAppFrontEnd.csprojResolveAssemblyReference.cache
+C:\Users\mbala\source\repos\CancerCouncilPalindrome\WebAppCore\obj\Debug\netcoreapp2.0\1 WebAppFrontEnd.csproj.CoreCompileInputs.cache
+C:\Users\mbala\source\repos\CancerCouncilPalindrome\WebAppCore\obj\Debug\netcoreapp2.0\1 WebAppFrontEnd.AssemblyInfoInputs.cache
+C:\Users\mbala\source\repos\CancerCouncilPalindrome\WebAppCore\obj\Debug\netcoreapp2.0\1 WebAppFrontEnd.AssemblyInfo.cs
+C:\Users\mbala\source\repos\CancerCouncilPalindrome\WebAppCore\obj\Debug\netcoreapp2.0\1 WebAppFrontEnd.dll
+C:\Users\mbala\source\repos\CancerCouncilPalindrome\WebAppCore\obj\Debug\netcoreapp2.0\1 WebAppFrontEnd.pdb
+D:\AnsibleProject\Ansible\1 FrontEnd Web App\bin\Debug\netcoreapp2.0\1 WebAppFrontEnd.deps.json
+D:\AnsibleProject\Ansible\1 FrontEnd Web App\bin\Debug\netcoreapp2.0\1 WebAppFrontEnd.runtimeconfig.json
+D:\AnsibleProject\Ansible\1 FrontEnd Web App\bin\Debug\netcoreapp2.0\1 WebAppFrontEnd.runtimeconfig.dev.json
+D:\AnsibleProject\Ansible\1 FrontEnd Web App\bin\Debug\netcoreapp2.0\1 WebAppFrontEnd.dll
+D:\AnsibleProject\Ansible\1 FrontEnd Web App\bin\Debug\netcoreapp2.0\1 WebAppFrontEnd.pdb
+D:\AnsibleProject\Ansible\1 FrontEnd Web App\obj\Debug\netcoreapp2.0\1 WebAppFrontEnd.csprojResolveAssemblyReference.cache
+D:\AnsibleProject\Ansible\1 FrontEnd Web App\obj\Debug\netcoreapp2.0\1 WebAppFrontEnd.csproj.CoreCompileInputs.cache
+D:\AnsibleProject\Ansible\1 FrontEnd Web App\obj\Debug\netcoreapp2.0\1 WebAppFrontEnd.AssemblyInfoInputs.cache
+D:\AnsibleProject\Ansible\1 FrontEnd Web App\obj\Debug\netcoreapp2.0\1 WebAppFrontEnd.AssemblyInfo.cs
+D:\AnsibleProject\Ansible\1 FrontEnd Web App\obj\Debug\netcoreapp2.0\1 WebAppFrontEnd.dll
+D:\AnsibleProject\Ansible\1 FrontEnd Web App\obj\Debug\netcoreapp2.0\1 WebAppFrontEnd.pdb

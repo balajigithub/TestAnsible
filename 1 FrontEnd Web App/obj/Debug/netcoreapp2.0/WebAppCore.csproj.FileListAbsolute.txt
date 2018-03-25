@@ -1,0 +1,11 @@
+C:\Users\mbala\source\repos\CancerCouncilPalindrome\WebAppCore\bin\Debug\netcoreapp2.0\WebAppCore.deps.json
+C:\Users\mbala\source\repos\CancerCouncilPalindrome\WebAppCore\bin\Debug\netcoreapp2.0\WebAppCore.runtimeconfig.json
+C:\Users\mbala\source\repos\CancerCouncilPalindrome\WebAppCore\bin\Debug\netcoreapp2.0\WebAppCore.runtimeconfig.dev.json
+C:\Users\mbala\source\repos\CancerCouncilPalindrome\WebAppCore\bin\Debug\netcoreapp2.0\WebAppCore.dll
+C:\Users\mbala\source\repos\CancerCouncilPalindrome\WebAppCore\bin\Debug\netcoreapp2.0\WebAppCore.pdb
+C:\Users\mbala\source\repos\CancerCouncilPalindrome\WebAppCore\obj\Debug\netcoreapp2.0\WebAppCore.csprojResolveAssemblyReference.cache
+C:\Users\mbala\source\repos\CancerCouncilPalindrome\WebAppCore\obj\Debug\netcoreapp2.0\WebAppCore.csproj.CoreCompileInputs.cache
+C:\Users\mbala\source\repos\CancerCouncilPalindrome\WebAppCore\obj\Debug\netcoreapp2.0\WebAppCore.AssemblyInfoInputs.cache
+C:\Users\mbala\source\repos\CancerCouncilPalindrome\WebAppCore\obj\Debug\netcoreapp2.0\WebAppCore.AssemblyInfo.cs
+C:\Users\mbala\source\repos\CancerCouncilPalindrome\WebAppCore\obj\Debug\netcoreapp2.0\WebAppCore.dll
+C:\Users\mbala\source\repos\CancerCouncilPalindrome\WebAppCore\obj\Debug\netcoreapp2.0\WebAppCore.pdb
