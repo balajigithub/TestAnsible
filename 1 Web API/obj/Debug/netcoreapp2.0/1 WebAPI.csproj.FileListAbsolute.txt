@@ -1,0 +1,22 @@
+C:\Users\mbala\source\repos\CancerCouncilPalindrome\CancerCouncilPalindrome\bin\Debug\netcoreapp2.0\1 WebAPI.deps.json
+C:\Users\mbala\source\repos\CancerCouncilPalindrome\CancerCouncilPalindrome\bin\Debug\netcoreapp2.0\1 WebAPI.runtimeconfig.json
+C:\Users\mbala\source\repos\CancerCouncilPalindrome\CancerCouncilPalindrome\bin\Debug\netcoreapp2.0\1 WebAPI.runtimeconfig.dev.json
+C:\Users\mbala\source\repos\CancerCouncilPalindrome\CancerCouncilPalindrome\bin\Debug\netcoreapp2.0\1 WebAPI.dll
+C:\Users\mbala\source\repos\CancerCouncilPalindrome\CancerCouncilPalindrome\bin\Debug\netcoreapp2.0\1 WebAPI.pdb
+C:\Users\mbala\source\repos\CancerCouncilPalindrome\CancerCouncilPalindrome\obj\Debug\netcoreapp2.0\1 WebAPI.csprojResolveAssemblyReference.cache
+C:\Users\mbala\source\repos\CancerCouncilPalindrome\CancerCouncilPalindrome\obj\Debug\netcoreapp2.0\1 WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\mbala\source\repos\CancerCouncilPalindrome\CancerCouncilPalindrome\obj\Debug\netcoreapp2.0\1 WebAPI.AssemblyInfoInputs.cache
+C:\Users\mbala\source\repos\CancerCouncilPalindrome\CancerCouncilPalindrome\obj\Debug\netcoreapp2.0\1 WebAPI.AssemblyInfo.cs
+C:\Users\mbala\source\repos\CancerCouncilPalindrome\CancerCouncilPalindrome\obj\Debug\netcoreapp2.0\1 WebAPI.dll
+C:\Users\mbala\source\repos\CancerCouncilPalindrome\CancerCouncilPalindrome\obj\Debug\netcoreapp2.0\1 WebAPI.pdb
+D:\AnsibleProject\Ansible\1 Web API\bin\Debug\netcoreapp2.0\1 WebAPI.deps.json
+D:\AnsibleProject\Ansible\1 Web API\bin\Debug\netcoreapp2.0\1 WebAPI.runtimeconfig.json
+D:\AnsibleProject\Ansible\1 Web API\bin\Debug\netcoreapp2.0\1 WebAPI.runtimeconfig.dev.json
+D:\AnsibleProject\Ansible\1 Web API\bin\Debug\netcoreapp2.0\1 WebAPI.dll
+D:\AnsibleProject\Ansible\1 Web API\bin\Debug\netcoreapp2.0\1 WebAPI.pdb
+D:\AnsibleProject\Ansible\1 Web API\obj\Debug\netcoreapp2.0\1 WebAPI.csprojResolveAssemblyReference.cache
+D:\AnsibleProject\Ansible\1 Web API\obj\Debug\netcoreapp2.0\1 WebAPI.csproj.CoreCompileInputs.cache
+D:\AnsibleProject\Ansible\1 Web API\obj\Debug\netcoreapp2.0\1 WebAPI.AssemblyInfoInputs.cache
+D:\AnsibleProject\Ansible\1 Web API\obj\Debug\netcoreapp2.0\1 WebAPI.AssemblyInfo.cs
+D:\AnsibleProject\Ansible\1 Web API\obj\Debug\netcoreapp2.0\1 WebAPI.dll
+D:\AnsibleProject\Ansible\1 Web API\obj\Debug\netcoreapp2.0\1 WebAPI.pdb

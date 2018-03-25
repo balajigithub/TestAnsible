@@ -1,0 +1,11 @@
+C:\Users\mbala\source\repos\CancerCouncilPalindrome\CancerCouncilPalindrome\bin\Debug\netcoreapp2.0\CancerCouncilPalindrome.deps.json
+C:\Users\mbala\source\repos\CancerCouncilPalindrome\CancerCouncilPalindrome\bin\Debug\netcoreapp2.0\CancerCouncilPalindrome.runtimeconfig.json
+C:\Users\mbala\source\repos\CancerCouncilPalindrome\CancerCouncilPalindrome\bin\Debug\netcoreapp2.0\CancerCouncilPalindrome.runtimeconfig.dev.json
+C:\Users\mbala\source\repos\CancerCouncilPalindrome\CancerCouncilPalindrome\bin\Debug\netcoreapp2.0\CancerCouncilPalindrome.dll
+C:\Users\mbala\source\repos\CancerCouncilPalindrome\CancerCouncilPalindrome\bin\Debug\netcoreapp2.0\CancerCouncilPalindrome.pdb
+C:\Users\mbala\source\repos\CancerCouncilPalindrome\CancerCouncilPalindrome\obj\Debug\netcoreapp2.0\CancerCouncilPalindrome.csproj.CoreCompileInputs.cache
+C:\Users\mbala\source\repos\CancerCouncilPalindrome\CancerCouncilPalindrome\obj\Debug\netcoreapp2.0\CancerCouncilPalindrome.AssemblyInfoInputs.cache
+C:\Users\mbala\source\repos\CancerCouncilPalindrome\CancerCouncilPalindrome\obj\Debug\netcoreapp2.0\CancerCouncilPalindrome.AssemblyInfo.cs
+C:\Users\mbala\source\repos\CancerCouncilPalindrome\CancerCouncilPalindrome\obj\Debug\netcoreapp2.0\CancerCouncilPalindrome.dll
+C:\Users\mbala\source\repos\CancerCouncilPalindrome\CancerCouncilPalindrome\obj\Debug\netcoreapp2.0\CancerCouncilPalindrome.pdb
+C:\Users\mbala\source\repos\CancerCouncilPalindrome\CancerCouncilPalindrome\obj\Debug\netcoreapp2.0\CancerCouncilPalindrome.csprojResolveAssemblyReference.cache

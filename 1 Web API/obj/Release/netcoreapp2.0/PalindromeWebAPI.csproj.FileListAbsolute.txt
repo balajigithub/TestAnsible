@@ -1,0 +1,11 @@
+C:\Users\mbala\source\repos\CancerCouncilPalindrome\CancerCouncilPalindrome\bin\Release\netcoreapp2.0\PalindromeWebAPI.deps.json
+C:\Users\mbala\source\repos\CancerCouncilPalindrome\CancerCouncilPalindrome\bin\Release\netcoreapp2.0\PalindromeWebAPI.runtimeconfig.json
+C:\Users\mbala\source\repos\CancerCouncilPalindrome\CancerCouncilPalindrome\bin\Release\netcoreapp2.0\PalindromeWebAPI.runtimeconfig.dev.json
+C:\Users\mbala\source\repos\CancerCouncilPalindrome\CancerCouncilPalindrome\bin\Release\netcoreapp2.0\PalindromeWebAPI.dll
+C:\Users\mbala\source\repos\CancerCouncilPalindrome\CancerCouncilPalindrome\bin\Release\netcoreapp2.0\PalindromeWebAPI.pdb
+C:\Users\mbala\source\repos\CancerCouncilPalindrome\CancerCouncilPalindrome\obj\Release\netcoreapp2.0\PalindromeWebAPI.csprojResolveAssemblyReference.cache
+C:\Users\mbala\source\repos\CancerCouncilPalindrome\CancerCouncilPalindrome\obj\Release\netcoreapp2.0\PalindromeWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\mbala\source\repos\CancerCouncilPalindrome\CancerCouncilPalindrome\obj\Release\netcoreapp2.0\PalindromeWebAPI.AssemblyInfoInputs.cache
+C:\Users\mbala\source\repos\CancerCouncilPalindrome\CancerCouncilPalindrome\obj\Release\netcoreapp2.0\PalindromeWebAPI.AssemblyInfo.cs
+C:\Users\mbala\source\repos\CancerCouncilPalindrome\CancerCouncilPalindrome\obj\Release\netcoreapp2.0\PalindromeWebAPI.dll
+C:\Users\mbala\source\repos\CancerCouncilPalindrome\CancerCouncilPalindrome\obj\Release\netcoreapp2.0\PalindromeWebAPI.pdb
