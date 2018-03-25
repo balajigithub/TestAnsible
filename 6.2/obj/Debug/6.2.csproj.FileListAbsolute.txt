@@ -1,0 +1,6 @@
+C:\Users\mbala\source\repos\CancerCouncilPalindrome\6.2\bin\Debug\6.2.exe.config
+C:\Users\mbala\source\repos\CancerCouncilPalindrome\6.2\bin\Debug\6.2.exe
+C:\Users\mbala\source\repos\CancerCouncilPalindrome\6.2\bin\Debug\6.2.pdb
+C:\Users\mbala\source\repos\CancerCouncilPalindrome\6.2\obj\Debug\6.2.csproj.CoreCompileInputs.cache
+C:\Users\mbala\source\repos\CancerCouncilPalindrome\6.2\obj\Debug\6.2.exe
+C:\Users\mbala\source\repos\CancerCouncilPalindrome\6.2\obj\Debug\6.2.pdb

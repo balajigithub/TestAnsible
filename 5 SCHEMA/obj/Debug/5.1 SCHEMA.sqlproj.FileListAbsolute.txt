@@ -1,0 +1,19 @@
+C:\Users\mbala\source\repos\CancerCouncilPalindrome\5 SCHEMA\bin\Debug\5.1 SCHEMA.dacpac
+C:\Users\mbala\source\repos\CancerCouncilPalindrome\5 SCHEMA\bin\Debug\_5_SCHEMA.dll
+C:\Users\mbala\source\repos\CancerCouncilPalindrome\5 SCHEMA\bin\Debug\_5_SCHEMA.pdb
+C:\Users\mbala\source\repos\CancerCouncilPalindrome\5 SCHEMA\obj\Debug\_5_SCHEMA.dll
+C:\Users\mbala\source\repos\CancerCouncilPalindrome\5 SCHEMA\obj\Debug\_5_SCHEMA.pdb
+D:\AnsibleProject\Ansible\5 SCHEMA\bin\Debug\5.1 SCHEMA.dacpac
+D:\AnsibleProject\Ansible\5 SCHEMA\bin\Debug\_5_SCHEMA.dll
+D:\AnsibleProject\Ansible\5 SCHEMA\bin\Debug\_5_SCHEMA.pdb
+D:\AnsibleProject\Ansible\5 SCHEMA\obj\Debug\_5_SCHEMA.dll
+D:\AnsibleProject\Ansible\5 SCHEMA\obj\Debug\_5_SCHEMA.pdb
+D:\AnsibleProject\Test1\Ansible\5 SCHEMA\bin\Debug\5.1 SCHEMA.dacpac
+D:\AnsibleProject\Test1\Ansible\5 SCHEMA\bin\Debug\_5_SCHEMA.dll
+D:\AnsibleProject\Test1\Ansible\5 SCHEMA\bin\Debug\_5_SCHEMA.pdb
+D:\AnsibleProject\Test1\Ansible\5 SCHEMA\obj\Debug\Model.xml
+D:\AnsibleProject\Test1\Ansible\5 SCHEMA\obj\Debug\refactor.xml
+D:\AnsibleProject\Test1\Ansible\5 SCHEMA\obj\Debug\postdeploy.sql
+D:\AnsibleProject\Test1\Ansible\5 SCHEMA\obj\Debug\predeploy.sql
+D:\AnsibleProject\Test1\Ansible\5 SCHEMA\obj\Debug\_5_SCHEMA.dll
+D:\AnsibleProject\Test1\Ansible\5 SCHEMA\obj\Debug\_5_SCHEMA.pdb
